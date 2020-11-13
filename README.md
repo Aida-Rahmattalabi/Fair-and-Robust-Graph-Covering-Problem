@@ -1,4 +1,4 @@
-# Fair-and-Robust-Graph-Covering-Problem
+# FairGraphCovering
 Fair and Robust Graph Covering Problem
 
 
